@@ -1,5 +1,5 @@
 package StepDefinitions;
 
-public class test {
+public class test1 {
 
 }
