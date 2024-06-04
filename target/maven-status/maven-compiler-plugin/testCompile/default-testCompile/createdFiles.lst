@@ -1,0 +1,5 @@
+StepDefinitions\DriverManage.class
+StepDefinitions\Hooks.class
+runner\runner.class
+StepDefinitions\LoginPageTest.class
+StepDefinitions\test.class
