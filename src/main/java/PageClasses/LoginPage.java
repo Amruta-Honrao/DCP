@@ -20,7 +20,7 @@ public class LoginPage {
 	public void enterLoginDetails(String Uname, String Pwd)
 	{
 		driver.findElement(UserName).sendKeys(Uname);
-		driver.findElement(Password).sendKeys(Pwd);
+		driver.findElement(Password).sendKeys(Pwd); //
 	}
 	
 	public void click()
