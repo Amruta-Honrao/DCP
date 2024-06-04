@@ -11,6 +11,7 @@ public class LoginPage {
 		 public LoginPage(WebDriver driver)
 		{
 			this.driver = driver;
+			//hello;
 		}
 		
 	private By UserName = By.xpath("//input[@id='username']");
